@@ -1,4 +1,8 @@
-/images/*
-/modelos/*
-/videos/*
+images/*
+modelos/*
+videos/*
+
+!images/.gitkeep
+!modelos/.gitkeep
+!videos/.gitkeep
 
